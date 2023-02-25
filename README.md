@@ -13,12 +13,16 @@ I am a science, astronomy and astrophysics enthusiast with a passion for explori
 ## 💼 Projects
 
 - 📚 ISS Tracker in Python
-  - (link)
+  - https://github.com/DarkSword7/ISS-Tracker
 
 - 📷 Portfolio Website (still in development)
-  - (link)
+  - https://ashdev-portfolio.vercel.app
+
 - 🎮 Galaxy Game in Python with pygame 
-  - (link)
+  - https://github.com/DarkSword7/Galaxy-Game
+
+- 🔗 Link in Bio Page (HTML/CSS/Javascript)
+  - http://link-in-bio-rho.vercel.app
 
 ## 📬 Contact Me
 
