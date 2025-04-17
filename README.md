@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Andro Vision 👋</h1>
+<h1 align="center">Hey there, I'm Ashutosh 👋</h1>
 
 <p align="center">🚀 Exploring the universe through code & curiosity 🌌</p>
 
